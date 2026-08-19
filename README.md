@@ -43,9 +43,6 @@ I am currently interested in **Python Development, Software Development, Web Dev
 
 ### 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn profile link]
-* 🐙 GitHub: [Add your GitHub profile link]
-* 📧 Email: [Add your professional email]
 
 ---
 
